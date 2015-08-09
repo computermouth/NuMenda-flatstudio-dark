@@ -5,9 +5,10 @@ Numix-flatstudio-dark (for gtk3+ 3.14) with a small change to highlight coloring
 To install:
 $ sudo make install
 
-Change theme in lxappearance->Widget
-		lxappearance->Icon Theme
-		obconf->Theme
+Change theme in 
+* lxappearance->Widget
+* lxappearance->Icon Theme
+* obconf->Theme
 
 ![some alt](https://github.com/computermouth/NuMenda-flatstudio-dark/blob/master/screenshot.png)
 
