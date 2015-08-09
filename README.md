@@ -8,5 +8,5 @@ To install:
 
 Then just change theme in lxappearance and obconf.
 
-
+![some alt](https://github.com/computermouth/NuMenda-flatstudio-dark/blob/master/screenshot.png)
 
